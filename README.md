@@ -10,7 +10,8 @@ The complete Excel workbook is available through Google Drive because the workbo
 
 ## 🖼️ Dashboard Preview
 
-![Bank Loan Customer Analytics Dashboard](C:\Users\HP\Pictures\Screenshots\Screenshot 2026-10-05 164846.png)
+![Bank Loan Customer Analytics Dashboard](<img width="1037" height="617" alt="Screenshot 2026-10-05 164846" src="https://github.com/user-attachments/assets/4ca06920-1255-48f9-8386-8d8e7089ac69" />
+)
 
 ## 🎯 Project Objective
 
